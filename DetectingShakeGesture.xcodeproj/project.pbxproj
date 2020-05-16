@@ -13,6 +13,7 @@
 		1DD64ECD246FF6A90097AB62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DD64ECC246FF6A90097AB62 /* Assets.xcassets */; };
 		1DD64ED0246FF6A90097AB62 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DD64ECF246FF6A90097AB62 /* Preview Assets.xcassets */; };
 		1DD64ED3246FF6A90097AB62 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DD64ED1246FF6A90097AB62 /* LaunchScreen.storyboard */; };
+		1DD64EDD246FF7260097AB62 /* ShakeGestureManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD64EDC246FF7260097AB62 /* ShakeGestureManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1DD64ECF246FF6A90097AB62 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1DD64ED2246FF6A90097AB62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1DD64ED4246FF6A90097AB62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DD64EDC246FF7260097AB62 /* ShakeGestureManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShakeGestureManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1DD64EC6246FF6A40097AB62 /* AppDelegate.swift */,
 				1DD64EC8246FF6A40097AB62 /* SceneDelegate.swift */,
 				1DD64ECA246FF6A40097AB62 /* ContentView.swift */,
+				1DD64EDC246FF7260097AB62 /* ShakeGestureManager.swift */,
 				1DD64ECC246FF6A90097AB62 /* Assets.xcassets */,
 				1DD64ED1246FF6A90097AB62 /* LaunchScreen.storyboard */,
 				1DD64ED4246FF6A90097AB62 /* Info.plist */,
@@ -149,6 +152,7 @@
 				1DD64EC7246FF6A40097AB62 /* AppDelegate.swift in Sources */,
 				1DD64EC9246FF6A40097AB62 /* SceneDelegate.swift in Sources */,
 				1DD64ECB246FF6A40097AB62 /* ContentView.swift in Sources */,
+				1DD64EDD246FF7260097AB62 /* ShakeGestureManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
